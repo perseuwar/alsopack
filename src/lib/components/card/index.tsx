@@ -1,3 +1,4 @@
+import React from 'react'
 import { Typography, Box } from '@mui/material';
 import GiftCard from '../../assets/icons/gift-card';
 import { WrapperCard, TextNumber, InfosCard } from './styles';

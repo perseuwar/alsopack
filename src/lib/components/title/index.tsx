@@ -1,3 +1,4 @@
+import React from 'react'
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import Box from '@mui/material/Box';
 import { WrapperTitle } from './styles';

@@ -1,3 +1,4 @@
+import React from 'react'
 const Logo = () => (
   <svg width="114" height="40" viewBox="0 0 114 40" fill="none">
     <rect width="113.171" height="40" fill="url(#pattern0)" />
